@@ -1,23 +1,26 @@
 ![Header](https://github.com/daywalker0/daywalker0/blob/main/assets/top.png)
 
 ## Привет, друг! Ты попал на мой гитхаб, здесь ты можешь посмотреть на мой код, а так же мои проекты.
-### Меня зовут Максим, мне 22 года, я фронтенд - разработчик.
 
-### Технологии и навыки:
+## Технологии и навыки:
 ![HTML](https://img.shields.io/badge/-html5-000?style=for-the-badge&logo=html5)
-![HTML](https://img.shields.io/badge/-css3-000?style=for-the-badge&logo=css3)
-![HTML](https://img.shields.io/badge/-BEM-000?style=for-the-badge&logo=bem)
-![HTML](https://img.shields.io/badge/-bootstrap-000?style=for-the-badge&logo=bootstrap)
+![CSS](https://img.shields.io/badge/-css3-000?style=for-the-badge&logo=css3)
+![BEM](https://img.shields.io/badge/-BEM-000?style=for-the-badge&logo=bem)
+![BS](https://img.shields.io/badge/-bootstrap-000?style=for-the-badge&logo=bootstrap)
 
-![HTML](https://img.shields.io/badge/-javascript-000?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-webpack-000?style=for-the-badge&logo=webpack)
-![HTML](https://img.shields.io/badge/-gulp-000?style=for-the-badge&logo=gulp)
-![HTML](https://img.shields.io/badge/-vue.js-000?style=for-the-badge&logo=vue.js)
-![HTML](https://img.shields.io/badge/-nuxt.js-000?style=for-the-badge&logo=nuxt.js)
-![HTML](https://img.shields.io/badge/-vite-000?style=for-the-badge&logo=vite)
+![JS](https://img.shields.io/badge/-javascript-000?style=for-the-badge&logo=javascript)
+![WBP](https://img.shields.io/badge/-webpack-000?style=for-the-badge&logo=webpack)
+![GULP](https://img.shields.io/badge/-gulp-000?style=for-the-badge&logo=gulp)
+![VUE](https://img.shields.io/badge/-vue.js-000?style=for-the-badge&logo=vue.js)
+![NUXT](https://img.shields.io/badge/-nuxt.js-000?style=for-the-badge&logo=nuxt.js)
+![VITE](https://img.shields.io/badge/-vite-000?style=for-the-badge&logo=vite)
 
-![HTML](https://img.shields.io/badge/-npm-000?style=for-the-badge&logo=npm)
-![HTML](https://img.shields.io/badge/-git-000?style=for-the-badge&logo=git)
-![HTML](https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma)
+![NPM](https://img.shields.io/badge/-npm-000?style=for-the-badge&logo=npm)
+![GIT](https://img.shields.io/badge/-git-000?style=for-the-badge&logo=git)
+![FIGMA](https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma)
 
-Follow me
+## Связаться со мной
+
+[![TG](https://img.shields.io/badge/-telegram-000?style=for-the-badge&logo=telegram)](https://t.me//daywalker011)
+[![VK](https://img.shields.io/badge/-vk-000?style=for-the-badge&logo=vk)](https://vk.com/arkhipovmaxx)
+[![VK](https://img.shields.io/badge/-email-000?style=for-the-badge&logo=icloud)]()
