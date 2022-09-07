@@ -1,10 +1,8 @@
 ![Header](https://github.com/daywalker0/daywalker0/blob/main/assets/top.png)
 
-<p style="font-size:20px;font-weight:700;">Привет, друг! Ты попал на мой гитхаб, здесь ты можешь посмотреть на мой код, а так же мои проекты.</p>
+## <p style="font-size:20px;font-weight:700;">Привет, друг! Ты попал на мой гитхаб, здесь ты можешь посмотреть на мой код, а так же мои проекты.</p>
 
-<hr/>
-
-<p style="font-size:20px;text-align:center;font-weight:700;">Технологии и навыки:</p>
+## <p style="text-align:center;font-weight:700;">Технологии и навыки:</p>
 
 ![HTML](https://img.shields.io/badge/-html5-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css3-000?style=for-the-badge&logo=css3)
@@ -21,8 +19,6 @@
 ![NPM](https://img.shields.io/badge/-npm-000?style=for-the-badge&logo=npm)
 ![GIT](https://img.shields.io/badge/-git-000?style=for-the-badge&logo=git)
 ![FIGMA](https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma)
-
-<hr/>
 
 ## <p style="text-align:center;font-weight:700;">Связаться со мной: </p>
 
