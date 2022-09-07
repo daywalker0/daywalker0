@@ -1,8 +1,11 @@
 ![Header](https://github.com/daywalker0/daywalker0/blob/main/assets/top.png)
 
-## Привет, друг! Ты попал на мой гитхаб, здесь ты можешь посмотреть на мой код, а так же мои проекты.
+## <p style="font-size:20px;font-weight:700;">Привет, друг! Ты попал на мой гитхаб, здесь ты можешь посмотреть на мой код, а так же мои проекты.</p>
 
-## Технологии и навыки:
+<hr/>
+
+## <p style="text-align:center;font-weight:700;">Технологии и навыки:</p>
+
 ![HTML](https://img.shields.io/badge/-html5-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css3-000?style=for-the-badge&logo=css3)
 ![BEM](https://img.shields.io/badge/-BEM-000?style=for-the-badge&logo=bem)
@@ -19,8 +22,10 @@
 ![GIT](https://img.shields.io/badge/-git-000?style=for-the-badge&logo=git)
 ![FIGMA](https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma)
 
-## Связаться со мной
+<hr/>
+
+## <p style="text-align:center;font-weight:700;">Связаться со мной: </p>
 
 [![TG](https://img.shields.io/badge/-telegram-000?style=for-the-badge&logo=telegram)](https://t.me//daywalker011)
 [![VK](https://img.shields.io/badge/-vk-000?style=for-the-badge&logo=vk)](https://vk.com/arkhipovmaxx)
-[![VK](https://img.shields.io/badge/-email-000?style=for-the-badge&logo=icloud)]()
+![VK](https://img.shields.io/badge/-max1m.ar@icloud.com-000?style=for-the-badge&logo=icloud)
