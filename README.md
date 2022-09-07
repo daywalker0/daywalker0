@@ -1,4 +1,4 @@
-![Header](https://github.com/daywalker0/daywalker0/blob/main/assets/.png)
+![Header](https://github.com/daywalker0/daywalker0/blob/main/assets/title-img.png)
 
 About me
 
