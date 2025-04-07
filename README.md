@@ -22,6 +22,4 @@
 
 ## <p style="text-align:center;font-weight:700;">Связаться со мной: </p>
 
-[![TG](https://img.shields.io/badge/-telegram-000?style=for-the-badge&logo=telegram)](https://t.me//daywalker011)
-[![VK](https://img.shields.io/badge/-vk-000?style=for-the-badge&logo=vk)](https://vk.com/arkhipovmaxx)
-![VK](https://img.shields.io/badge/-max1m.ar@icloud.com-000?style=for-the-badge&logo=icloud)
+[![TG](https://img.shields.io/badge/-telegram-000?style=for-the-badge&logo=telegram)](https://t.me/relative01)
