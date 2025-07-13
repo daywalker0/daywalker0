@@ -1,7 +1,7 @@
 ![Header](https://github.com/daywalker0/daywalker0/blob/main/assets/top.png)
 
 ## <p style="font-size:20px;font-weight:700;">Привет, друг! Ты попал на мой гитхаб, здесь ты можешь посмотреть на мой код.</p>
-## <p style="font-size:20px;font-weight:700;">Портфолио: <a href="https://arkhipovmaxxxsite.netlify.app/">https://arkhipovmaxxxsite.netlify.app/</a> </p>
+## <p style="font-size:20px;font-weight:700;">Портфолио: <a href="https://arkhipovmaxxxsite.netlify.app/" target="_blank">https://arkhipovmaxxxsite.netlify.app/</a> </p>
 
 ## <p style="text-align:center;font-weight:700;">Технологии и навыки:</p>
 
