@@ -1,14 +1,14 @@
-# Maksim Arkhipov — Frontend Developer
+# Максим Архипов — Frontend Developer
 
-Vue.js ecosystem specialist with 6 years of commercial experience. I build complex web interfaces: ERP systems, real-time platforms, AI integrations, and everything in between.
+Специализируюсь на экосистеме Vue.js, 6 лет коммерческого опыта. Строю сложные веб-интерфейсы: ERP-системы, real-time платформы, AI-интеграции.
 
-Most of my production work lives under NDA — but the approach, architecture decisions, and problem-solving translate across projects.
+Большинство продакшен-проектов под NDA — но архитектурные подходы и решения отражены ниже.
 
 ---
 
-## What I work with
+## Стек
 
-**Core stack**
+**Основное**
 
 ![Vue.js](https://img.shields.io/badge/-Vue%203-42b883?style=flat-square&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00dc82?style=flat-square&logo=nuxt.js&logoColor=white)
@@ -16,18 +16,18 @@ Most of my production work lives under NDA — but the approach, architecture de
 ![Pinia](https://img.shields.io/badge/-Pinia-ffd859?style=flat-square&logo=vue.js&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite&logoColor=white)
 
-**Styling**
+**Стили**
 
 ![SCSS](https://img.shields.io/badge/-SCSS%2FBEM-cc6699?style=flat-square&logo=sass&logoColor=white)
 ![GSAP](https://img.shields.io/badge/-GSAP-88ce02?style=flat-square&logo=greensock&logoColor=black)
 
-**Real-time & APIs**
+**Real-time и API**
 
 ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-333333?style=flat-square)
 ![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat-square)
 
-**Tooling**
+**Инструменты**
 
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=black)
@@ -36,40 +36,30 @@ Most of my production work lives under NDA — but the approach, architecture de
 
 ---
 
-## What I've shipped
+## Что сделано в продакшене
 
-- **ERP system from scratch** — sole frontend developer. Vue 3 + Pinia, custom drag-and-drop grid dashboard (grid-stack.js), role-based auth at route/component/API level, virtual scroll tables for thousands of rows, i18n, AI widget, real-time chat. Enterprise standards throughout.
+- **ERP-система с нуля** — единственный frontend-разработчик на проекте. Vue 3 + Pinia, drag-and-drop grid-дашборд (grid-stack.js), разграничение доступа на уровне маршрутов/компонентов/API, виртуализация таблиц на тысячи строк, i18n, AI-виджет, real-time чат. Enterprise-стандарты.
 
-- **Video interview platform** (WebRTC) — full cycle: architecture → production. Peer-to-peer video, session management, fallback handling.
+- **Платформа видеоинтервью** (WebRTC) — полный цикл: архитектура → продакшен. P2P видео, управление сессиями, обработка fallback-сценариев.
 
-- **AI avatar integration** — connected external AI API into a live product. Became a core feature used in production.
+- **Интеграция AI-аватаров** — подключение внешнего AI API в живой продукт. Стало частью основного функционала.
 
-- **Chrome Extension** — extends the main product to an external platform without touching the core app.
+- **Chrome Extension** — расширяет продукт на внешнюю платформу без изменений в основном приложении.
 
-- **Webinar platform** (WebSocket) — real-time reactions, chat, session state sync across participants.
+- **Платформа вебинаров** (WebSocket) — real-time реакции, чат, синхронизация состояния сессии между участниками.
 
-- **Landing pages with SEO + GSAP animations** — semantic markup, structured data, performance-first build.
+- **Лендинги с SEO + GSAP-анимациями** — семантическая разметка, микроразметка, performance-first сборка.
 
-- **Hotel booking service** — Nuxt.js SSR, adaptive UX, full API integration.
+- **Сервис бронирования отелей** — Nuxt.js SSR, адаптивный UX, полная интеграция с API.
 
-- **Pawn shop aggregator** — instant filtering with debounce, API-level filter sync, URL state via query params.
+- **Агрегатор ломбардов** — мгновенная фильтрация с debounce, синхронизация состояния с query params в URL.
 
-> Most production code is under NDA. Public repositories below show architecture approaches and component patterns.
-
----
-
-## Public demos
-
-| Project | What it shows | Stack |
-|---|---|---|
-| [vue3-dashboard-kit](https://github.com/daywalker0/vue3-dashboard-kit) | Drag-and-drop grid, widget system, Pinia stores | Vue 3, TS, grid-stack.js |
-| [virtual-table-vue](https://github.com/daywalker0/virtual-table-vue) | Virtual scroll, column filters, export | Vue 3, TS |
-| [vue3-starter](https://github.com/daywalker0/vue3-starter) | My standard project structure | Vue 3, TS, Pinia, Vite |
+> Весь продакшен-код под NDA. Портфолио с кейсами — по ссылке ниже.
 
 ---
 
-## Contact
+## Связь
 
 [![Telegram](https://img.shields.io/badge/-@relative01-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/relative01)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://arkhipovmaxxxsite.netlify.app)
+[![Portfolio](https://img.shields.io/badge/-Портфолио-000000?style=flat-square&logo=netlify&logoColor=white)](https://arkhipovmaxxxsite.netlify.app)
 [![Email](https://img.shields.io/badge/-max1m.ar@yandex.ru-red?style=flat-square&logo=yandex&logoColor=white)](mailto:max1m.ar@yandex.ru)
